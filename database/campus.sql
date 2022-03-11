@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Mar 09, 2022 at 03:13 AM
+-- Generation Time: Mar 05, 2022 at 02:24 PM
 -- Server version: 10.4.20-MariaDB
 -- PHP Version: 8.0.9
 
@@ -41,7 +41,7 @@ CREATE TABLE `usertable` (
 --
 
 INSERT INTO `usertable` (`id`, `username`, `email`, `password`, `code`, `status`) VALUES
-(1, 'admin', 'riammutempest@gmail.com', '$2y$10$Ka.jtPtAp2GzYT566XAUR.Q/UwCJroZKO.L.jwLsqcPoK3bcE5KJ6', 0, 'verified');
+(1, 'admin', 'riammutempest@gmail.com', '$2y$10$fFxWLiY9ELshw1AdU4Np/.Wci2mwMu8neUo4jLnjuJH6JivJyrw76', 0, 'verified');
 
 --
 -- Indexes for dumped tables
