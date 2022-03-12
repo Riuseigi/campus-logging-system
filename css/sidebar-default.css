@@ -1,7 +1,7 @@
 #sidebar {
   min-width: 250px;
   max-width: 250px;
-  background: #000000;
+  background: #fff;
   color: #fff;
   transition: all 0.3s;
   border-right: 1px solid #e6ecf5;
@@ -41,7 +41,7 @@
 #sidebar ul li a:hover,
 #sidebar ul li a.active {
   color: #fff;
-  background: #56855ac5;
+  background: #2196f3;
 }
 
 #sidebar ul li.active > a,
